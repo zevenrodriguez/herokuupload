@@ -1,5 +1,5 @@
 {
-  "name": "basic-web-app",
+  "name": "heroku-upload",
   "version": "1.0.0",
   "description": "A sample Node.js app using Hapi.js",
   "engines": {
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zevenrodriguez/basicWebApp"
+    "url": "https://github.com/zevenrodriguez/herokuupload"
   }
 }
